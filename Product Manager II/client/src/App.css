@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+body {
+  background-color: #282c34;
+}
+
+header {
+  font-size: 50px;
+  color: cornflowerblue;
+}
+
+
+p {
+  color: white;
+}
+
